@@ -3,7 +3,7 @@ Test Task for Backend (PHP)
 
 # Homework assignment
 ## Situation
-Paysera allows private and business clients to `deposit` and `withdraw` funds to and from Paysera accounts in multiple currencies. Clients may be charged a commission fee. 
+Bank allows private and business clients to `deposit` and `withdraw` funds to and from Bank accounts in multiple currencies. Clients may be charged a commission fee. 
 
 You have to create an application that handles operations provided in CSV format and calculates a commission fee based on defined rules. 
 
