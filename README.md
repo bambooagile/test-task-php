@@ -3,7 +3,7 @@ Test Task for Backend (PHP)
 
 # Homework assignment
 ## Situation
-Bank allows private and business clients to `deposit` and `withdraw` funds to and from Bank accounts in multiple currencies. Clients may be charged a commission fee. 
+Bank allows private and business clients to `deposit` and `withdraw` funds to and from Bank accounts in multiple currencies. Clients may be charged a commission fee.
 
 You have to create an application that handles operations provided in CSV format and calculates a commission fee based on defined rules. 
 
@@ -78,7 +78,7 @@ Note: the example output is calculated base on the following exchange rates: EUR
 # Requirements
 1. Third party frameworks, libraries, dependencies, tools  are allowed.
     1. PSR-4 is required. We require the use of `composer` for autoloading even if you do not use any external dependencies;
-    2. If your application is not based on framework skeleton, your project must use [this skeleton](https://github.com/paysera/skeleton-commission-task/archive/master.zip) as a bootstrap.
+    2. If your application is not based on framework skeleton, your project must use [this skeleton](https://github.com/bambooagile/test-task-php/raw/main/skeleton-commission-task-master.zip) as a bootstrap.
     3. Avoid including framework or any dependencies into your task if you don't actually use them;
 2. Your application must be maintainable:
     1. Dependencies between separate parts of your code should be clear;
@@ -95,27 +95,21 @@ Note: the example output is calculated base on the following exchange rates: EUR
     2. How to initiate system's tests (what command to run);
     3. Short description of functionality in more difficult places could be provided in the code itself;
 7. Do not use external infrastructure dependencies, like MySQL databases or temporary files - just make the calculations in memory;
-8. Do not use Paysera name in titles, descriptions or the code itself. This helps others to find the libraries that are really related to our services and/or are developed and maintained by our team.
+8. Do not use Bamboo Agile name in titles, descriptions or the code itself. This helps others to find the libraries that are really related to our services and/or are developed and maintained by our team.
 
 # Evaluation Criteria
-1. Requirements considered as met by Paysera development team. It would be best if all requirements are met;
+1. Requirements considered as met by Bamboo Agile development team. It would be best if all requirements are met;
 2. Code quality - readability, structure, maintainability, extensibility, testability;
 3. Speed of the system can also be considered, but is not as important as other criteria.
 
 # Task Submission
-You can put the code publicly (in github or similar code control systems) if you want, but please note the requirement about Paysera name usage.
+You can put the code publicly (in github or similar code control systems) if you want, but please note the requirement about Bamboo Agile name usage.
 
 Before submitting your solution, please look to the requirements once again – **all** of them **must** be accomplished.
 
-Send it in your favourite format (link to versioned code, code in zip file etc.) to one of the following emails based on your city, unless instructed otherwise:
-* code-afr@paysera.com, if you've been asked to send the task to this email (not depending upon the city)
-* code-zd@paysera.com, if you've been asked to send the task to this email (not depending upon the city)
-* code-vilnius@paysera.com
-* code-kaunas@paysera.com
-* code-sofia@paysera.com
-* code-manila@paysera.com
-* code-dhaka@paysera.com
-* code-saint-petersburg@paysera.com
-* code-plovdiv@paysera.com
+Send it in your favourite format (link to versioned code, code in zip file etc.) to the following emails, unless instructed otherwise:
+* sz@bambooagile.eu
+* as@bambooagile.eu
+* aa@bambooagile.eu
 
 Please also note the time taken to complete the task – this helps us to improve the task in case it takes too long for most developers.
